@@ -1,0 +1,6 @@
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\bin\Debug\Services.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\bin\Debug\Services.pdb
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\obj\Debug\Services.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Services\obj\Debug\Services.pdb

@@ -1,0 +1,16 @@
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Challenge.Tests.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Challenge.Tests.pdb
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Services.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\bin\Debug\Services.pdb
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\obj\Debug\Challenge.Tests.csproj.CoreCompileInputs.cache
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\obj\Debug\Challenge.Tests.csproj.CopyComplete
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\obj\Debug\Challenge.Tests.dll
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\obj\Debug\Challenge.Tests.pdb
+E:\TokenAuth-master\TokenAuth-master\TestChallenge\Challenge.Tests\obj\Debug\Challenge.Tests.csprojAssemblyReference.cache
